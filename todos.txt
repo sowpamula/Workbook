@@ -7,3 +7,4 @@ make soul
 frtgthy
 clean
 new
+added from gui
